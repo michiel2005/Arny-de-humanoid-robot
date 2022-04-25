@@ -1,4 +1,0 @@
-This is text
-/r
-/n
-hi
